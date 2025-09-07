@@ -1,2 +1,21 @@
-# Twitter-User-Home-Page-Clone
-This project is a clone of the Twitter user homepage, created using HTML and Tailwind CSS.  It replicates the look and feel of a Twitter profile page with a responsive layout,  profile section, navigation bar, and tweets feed.  Built as a front-end practice project to sharpen UI development skills.
+# 🐦 Twitter User Homepage Clone
+
+A simple clone of a **Twitter user profile page**, built using **HTML** and **Tailwind CSS**.  
+This project is a practice clone to replicate the look and feel of Twitter’s UI with a responsive design.
+
+---
+
+## 🚀 Features
+- 📱 Responsive Twitter-like layout  
+- 🎨 Styled using **Tailwind CSS**  
+- 🖼️ Profile section with avatar, bio, and stats  
+- 📝 Tweets list UI  
+- 🔗 Navbar with icons and actions  
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5**
+- **Tailwind CSS**
+
+---
